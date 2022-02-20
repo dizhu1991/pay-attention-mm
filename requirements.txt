@@ -1,0 +1,8 @@
+pystan==2.19.1.1
+fbprophet
+flake8
+matplotlib
+numpy
+pandas
+plotly
+openpyxl
